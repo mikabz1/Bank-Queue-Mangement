@@ -1,3 +1,4 @@
+## project by Ron Adi & Michael Benzekri
 # Project summary
 
 This project is a work for a bachelor's degree in computer science in the object-oriented Java course.
